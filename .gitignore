@@ -1,0 +1,19 @@
+# Secrets — НИКОГДА не выкладывать
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+.venv/
+env/
+
+# PyCharm
+.idea/
+
+# Базы и логи
+*.sqlite3
+*.db
+*.log.vkbottle/
