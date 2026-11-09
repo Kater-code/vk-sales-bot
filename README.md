@@ -2,7 +2,7 @@
 
 An AI-powered lead generation bot for VK (VKontakte) communities. It greets potential clients, answers questions about services using an LLM, qualifies leads through a guided form, and delivers each new lead straight to the business owner.
 
-Built as a real B2B automation tool for a service business selling AI and automation solutions.
+Built as a B2B automation tool for a small service business.
 
 ## The business problem
 
@@ -42,16 +42,6 @@ The visitor gets an immediate, on-brand response. The owner gets a clean, ready-
 | LLM | Mistral AI (mistral-small) |
 | State management | vkbottle FSM (state dispenser) |
 | Config & secrets | python-dotenv (.env) |
-
-## Pricing model (the business this bot serves)
-
-The bot represents a productized service offering:
-
-- Simple funnel bot: from 30,000 RUB
-- AI bot with Mistral + CRM: from 60,000 RUB
-- Process automation on n8n: from 40,000 RUB
-- Landing page: from 20,000 RUB
-- Support and changes: from 8,000 RUB/month
 
 ## Status
 
